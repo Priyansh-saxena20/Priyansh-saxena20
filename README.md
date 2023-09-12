@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif">
 
 # 💫 About Me:
-🔭I'm currently working on MERN based web projects.<br>🤝I'm looking to collaborate on open source web projects.<br>👀I'm looking to help with app development.<br>🌱I'm currently learning Flutter and NextJS.<br>
+🔭  I'm a computer science graduate with the experience in <strong>excellent troubleshooting skills </strong> and helped more than <b><strong>1000+ students</strong></b> in lots of different technological Domains .<br><br>🤝  I have provided my assistance to more than <strong><b>33+ startups</b></strong> 🔥 by povinding both technical and non-technical help like to help them in their strategies and business models for their startups📈.<br><br>🎯 I have good <strong>Management Skills</strong>🤵‍♂️ and has good <strong>Leadership Qualities.</strong>💪<br><br>👀  looking to collaborate on opensource projects and to work with companies. <strong>Do reach out to me on my LinkedIn and other Social media.</strong>
 
 
 ## 🖥️Technologies I Can Help You With
@@ -36,29 +36,13 @@
 </p>
 
 
-## 🌐 Socials:
+## 🌐 How to reach me:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshsaxena20-3a1013231)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshsaxena20)  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:priyansh.saxena20@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](discordapp.com/users/Priyansh#2377)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/Priyansh#2377)
   
-  
- 
 
 
-# 📊 GitHub Stats:
-
-<!--
-**Priyansh-saxena20/Priyansh-saxena20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-saxena20&show_icons=true&theme=gotham" alt="Priyansh saxena" />
