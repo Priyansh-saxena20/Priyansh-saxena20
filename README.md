@@ -37,10 +37,10 @@
 
 
 ## 🌐 How to reach me:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshsaxena20)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshsaxena20)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:priyansh.saxena20@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/Priyansh#2377)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)]( https://wa.me/9119216603?text=Hi👋%20I%20am%20Priyansh!!%20Thanks%20for%20reaching%20me%20will%20get%20back%20to%20you%20soon%20😊.)
   
 
 
