@@ -44,8 +44,8 @@
 
 ## 📝 My Latest Blog @Medium.com
 <p align="center" style="color: red; font-size: 18px;">Do follow me on medium for exciting blogs .</p>
-<p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0" alt="Recent article #1" widht="650" height="100" ></a>
-<p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/1" alt="Recent article #1" widht="650" height="100" ></a>
+<p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0" alt="Recent article 0" widht="650" height="100" ></a><br>
+<p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/1" alt="Recent article 1" widht="650" height="100" ></a>
 
 
 
