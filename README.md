@@ -41,7 +41,13 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:priyansh.saxena20@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/Priyansh#2377)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)]( https://wa.me/9119216603?text=Hi👋%20I%20am%20Priyansh!!%20Thanks%20for%20reaching%20me%20will%20get%20back%20to%20you%20soon%20😊.)
-  
+
+## 📝 My Latest Blog @Medium.com
+<p align="center" style="color: red; font-size: 18px;">Do follow me on medium for exciting blogs .</p>
+<p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0" alt="Recent article #1" widht="650" height="100" ></a>
+<p align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyansh.saxena20/1" alt="Recent article #1" widht="650" height="100" ></a>
+
+
 
 ## 📊 GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-saxena20&show_icons=true&theme=gotham" alt="Priyansh saxena" />
