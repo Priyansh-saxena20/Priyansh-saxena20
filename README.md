@@ -53,4 +53,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-saxena20&show_icons=true&theme=gotham" alt="Priyansh saxena" />
 
 ## 🐍GitHub History :
-![snake gif](https://github.com/Priyansh-saxena20/Priyansh-saxena20/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Priyansh-saxena20/Priyansh-saxena20/blob/output/github-contribution-grid-snake.svg)
