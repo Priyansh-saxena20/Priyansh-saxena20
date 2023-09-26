@@ -20,8 +20,11 @@
   <img alt="ansible" src="https://img.shields.io/badge/-Ansible Automation-EE0000?style=for-the-badge&amp;logo=ansible&logoColor=white"/> 
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
   <img alt="jenkins" src="https://img.shields.io/badge/-jenkins-EDEEEC?style=for-the-badge&amp;logo=jenkins&logoColor=#D24939"/>
+  <img alt="prometheus" src="https://img.shields.io/badge/-prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&logoColor=EDEEEC"/> 
+  <img alt="grafana" src="https://img.shields.io/badge/-grafana-F46800?style=for-the-badge&amp;logo=grafana&logoColor=EDEEEC"/> 
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&amp;logo=apachehadoop&amp;logoColor=black" alt="Apache Hadoop">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&amp;logo=apachekafka" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/apachemaven-D22128?style=for-the-badge&amp;logo=apachemaven" alt="apachemaven">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT">
